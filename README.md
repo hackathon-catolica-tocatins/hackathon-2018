@@ -8,12 +8,8 @@ Projetos desenvolvidos durante o 3º Hackathon da Católica do Tocantins
 
 ## Desenvolvimento de Aplicações
 
-- [ConQuest](https://github.com/felipegomesgit13/ConQuest)
-	- [download](https://github.com/felipegomesgit13/ConQuest/archive/master.zip)
 - [App MediGO](https://github.com/brunomoraisti/AppMedigo)
 	- [download](https://github.com/brunomoraisti/AppMedigo/archive/master.zip)
-- [Segurança do Paciente](https://github.com/SkyList/Hackathon-prototipo)
-	- [download](https://github.com/SkyList/Hackathon-prototipo/archive/master.zip)
 - [Argos](https://github.com/brunnosales/argos)
 	- [download](https://github.com/brunnosales/argos/archive/master.zip)
 - [Triagem-AVC](https://github.com/vilmarferreira/Triagem-AVC)
@@ -22,6 +18,10 @@ Projetos desenvolvidos durante o 3º Hackathon da Católica do Tocantins
 	- [download](https://github.com/juleow/projeto_hackathon/archive/master.zip)
 - [Snitch Dedo-Duro](https://github.com/DanielArrais/snitchdedoduro)
 	- [download](https://github.com/DanielArrais/snitchdedoduro/archive/master.zip)
+- [Segurança do Paciente](https://github.com/SkyList/Hackathon-prototipo)
+	- [download](https://github.com/SkyList/Hackathon-prototipo/archive/master.zip)
+- [ConQuest](https://github.com/felipegomesgit13/ConQuest)
+	- [download](https://github.com/felipegomesgit13/ConQuest/archive/master.zip)
 
 ## Desenvolvimento de Jogos
 
