@@ -7,6 +7,7 @@ Projetos desenvolvidos durante o 3º Hackathon da Católica do Tocantins
 
 
 ## Desenvolvimento de Aplicações
+####Saúde, Educação e Segurança
 
 - [App MediGO](https://github.com/brunomoraisti/AppMedigo)
 	- [download](https://github.com/brunomoraisti/AppMedigo/archive/master.zip)
@@ -24,6 +25,8 @@ Projetos desenvolvidos durante o 3º Hackathon da Católica do Tocantins
 	- [download](https://github.com/felipegomesgit13/ConQuest/archive/master.zip)
 
 ## Desenvolvimento de Jogos
+####Jogos Casuais
+
 
 - [Heavy Battle Space](https://github.com/BersonCrios/HeavyBattleSpace)
 	- [download](https://github.com/BersonCrios/HeavyBattleSpace/archive/master.zip)
