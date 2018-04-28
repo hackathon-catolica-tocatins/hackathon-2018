@@ -9,7 +9,7 @@ Projetos desenvolvidos durante o 3º Hackathon da Católica do Tocantins
 
 - [ConQuest](https://github.com/felipegomesgit13/ConQuest)
 	- [download](https://github.com/felipegomesgit13/ConQuest/archive/master.zip)
-- [ConQuest](https://github.com/brunomoraisti/AppMedigo)
+- [AppMedigo](https://github.com/brunomoraisti/AppMedigo)
 	- [download](https://github.com/brunomoraisti/AppMedigo/archive/master.zip)
 - [Segurança do Paciente](https://github.com/SkyList/Hackathon-prototipo)
 	- [download](https://github.com/SkyList/Hackathon-prototipo/archive/master.zip)
