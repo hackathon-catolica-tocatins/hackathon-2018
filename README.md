@@ -10,8 +10,8 @@ Projetos desenvolvidos durante o 3º Hackathon da Católica do Tocantins
 
 - [App MediGO](https://github.com/brunomoraisti/AppMedigo)
 	- [download](https://github.com/brunomoraisti/AppMedigo/archive/master.zip)
-- [Argos](https://github.com/brunnosales/argos)
-	- [download](https://github.com/brunnosales/argos/archive/master.zip)
+- [Argos](https://github.com/brunnosales/argos2)
+	- [download](https://github.com/brunnosales/argos2/archive/master.zip)
 - [Triagem-AVC](https://github.com/vilmarferreira/Triagem-AVC)
 	- [download](https://github.com/vilmarferreira/Triagem-AVC/archive/master.zip)
 - [Palmas Agora](https://github.com/juleow/projeto_hackathon)
