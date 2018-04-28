@@ -6,6 +6,7 @@ Projetos desenvolvidos durante o 3º Hackathon da Católica do Tocantins
 
 
 
+## Desenvolvimento de Aplicações
 
 - [ConQuest](https://github.com/felipegomesgit13/ConQuest)
 	- [download](https://github.com/felipegomesgit13/ConQuest/archive/master.zip)
@@ -21,6 +22,9 @@ Projetos desenvolvidos durante o 3º Hackathon da Católica do Tocantins
 	- [download](https://github.com/juleow/projeto_hackathon/archive/master.zip)
 - [Snitch Dedo-Duro](https://github.com/DanielArrais/snitchdedoduro)
 	- [download](https://github.com/DanielArrais/snitchdedoduro/archive/master.zip)
+
+## Desenvolvimento de Jogos
+
 - [Heavy Battle Space](https://github.com/BersonCrios/HeavyBattleSpace)
 	- [download](https://github.com/BersonCrios/HeavyBattleSpace/archive/master.zip)
 - [Rage Attack](https://github.com/saviossmg/RageAttack)
